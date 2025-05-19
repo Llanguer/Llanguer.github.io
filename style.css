@@ -1,0 +1,22 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #117170
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #F3D9B0;
+}
+.portfolio-img {
+    width: 100%;
+    max-width: 400px;  /* limite la taille max */
+    height: auto;      /* garde le ratio */
+    display: block;
+    margin: 20px auto; /* centre l’image */
+}
